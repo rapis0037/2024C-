@@ -13,7 +13,7 @@
 (C:\Users\사용자이름\source\repos\프로젝트 이름\프로젝트이름)
 ![스크린샷 2024-05-05 201516](https://github.com/rapis0037/2024CPP/assets/127822589/222866a6-4e90-4a27-ba8d-3f1dce8c9da4)
 
-5. 프로젝트를 실행하여 "sqlite3.h"를 include한다.
+5. 프로젝트를 실행하여 "sqlite3.h"를 include한다.-------------------------------------------
 ![스크린샷 2024-05-05 201702](https://github.com/rapis0037/2024CPP/assets/127822589/83cbdc5b-f9d9-4956-ac71-ebb501b91e1e)
 
 -끝
