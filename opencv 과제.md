@@ -1,6 +1,5 @@
 1. OpenCV 홈페이지로 가서 Windows용 파일을 다운로드 받는다.
 
-   
    -https://opencv.org/releases/
 
 3. 다운 받은 opencv파일의 압축을 해제하고 C드라이브 루트에 파일을 넣는다.
