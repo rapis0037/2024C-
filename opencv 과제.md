@@ -57,6 +57,7 @@ int main() {
 }
 
 
+
 아래는 OpenCV설정부터 edge 실행까지를 담은 유튜브 영상 링크이다.
 
 https://youtu.be/Cu7Eui_Yhbw
