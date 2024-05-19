@@ -12,3 +12,10 @@ glm에 대해 알지 못하여 잠깐 해매였으나 자료를 찾아 학습하
 이번 계기를 통해 OpenGL과 Vulkan 및 GLFW에 대해 배우고 GLFW를 활용해 보는 좋은 시간이 된 것 같습니다.
 
 ## 송돔겸
+
+
+
+
+# 영상 링크
+
+https://youtu.be/RXGpBcXPrY8
